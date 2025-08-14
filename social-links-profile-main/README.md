@@ -83,7 +83,7 @@ Continue reading the book , You don't know JS and honestly this book is a gold s
 
 ### Useful resources
 
-- [ChatGPT](https://chatgpt.com) - As all of you I also used the ChatGPT to review my code and give me suggestion about how to improve the media query and html semantics
+- [ChatGPT](https://chatgpt.com) - Like all of you I also used the ChatGPT 😂 to review my code and it gave me suggestion about how to improve the media query and html semantics
 - [MDN docs](https://developer.mozilla.org/en-US/) - Amazing resource for learning anything in web.
 
 ## Author
